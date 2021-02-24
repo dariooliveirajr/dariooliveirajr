@@ -1,6 +1,35 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariooliveirajr&count_private=true&show_icons=true&theme=dracula)](https://github.com/dariooliveirajr/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariooliveirajr&count_private=true&layout=compact&show_icons=true&theme=dracula)](https://github.com/dariooliveirajr/github-readme-stats)
+<h1>Hi, i'm Dario! :boy::v: </h1>
+<hr>
+<table>
+  <thead>
+    <h3>About me:</h3>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Full-Stack Developer</li>
+          <li>In love with the Javascript stack</li>
+          <li>I already participated in some technology fairs</li>
+          <li>Aspiring gamer</li>
+        </ul>
+      </td>
+      <td>
+        <img src="./assets/computer.png"> 
+      </td>
+    </tr>
+  </tbody>
+</table>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dariooliveirajr&count_private=true&show_icons=true&theme=tokyonight"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariooliveirajr&count_private=true&layout=compact&show_icons=true&theme=tokyonight">
+</p>
+ 
+
+
+
 
 ### :boy::v: Hi there! 
 ***
