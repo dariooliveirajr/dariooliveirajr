@@ -1,27 +1,18 @@
 
 <h1>Hi, i'm Dario! :boy::v: </h1>
 <hr>
-<table>
-  <thead>
-    <h3>About me:</h3>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <ul>
-          <li>Full-Stack Developer</li>
-          <li>In love with the Javascript stack</li>
-          <li>I already participated in some technology fairs</li>
-          <li>Aspiring gamer</li>
-        </ul>
-      </td>
-      <td>
-        <img src="./assets/computer.png"> 
-      </td>
-    </tr>
-  </tbody>
-</table>
-  
+
+<h3>About me:</h3>
+
+<img align="right" src="./assets/computer.png"> 
+<br><br><br><br>
+<ul align="left">
+  <li>Full-Stack Developer</li>
+  <li>In love with the Javascript stack</li>
+  <li>I already participated in some technology fairs</li>
+  <li>Aspiring gamer</li>
+</ul>
+<br><br><br><br><br><br><br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dariooliveirajr&count_private=true&show_icons=true&theme=tokyonight"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariooliveirajr&count_private=true&layout=compact&show_icons=true&theme=tokyonight">
