@@ -57,3 +57,4 @@ I have been working with the development of graphic materials for about 4 years.
 
 ### :bookmark_tabs: Projects
 ***
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dariooliveirajr&repo=nlw04-nodejs&theme=tokyonight"><br>
