@@ -23,9 +23,15 @@
 
 ### :boy::v: Hi there! 
 ***
+<img align="left" src="./assets/books.png"> 
+<p align="right">
 I started in the programming world with 13 years old, thru a Blog for a game. I attendend a technical school whereby I learned the basics of computer science and could put my hands on a lot of projects. In 2019 I developed a system for scheduling appointments for a physical therapy clinic using Node.js, among several back-end and styling libraries, as well as creating a database. I participated in several fairs and workshops that addressed mobile development, integrated systems, artificial intelligence and web development becoming a winner or finalist in some of them. 
-
+</p>
+<br><br>
+<img align="right" src="./assets/programming.png"> 
+<p align="left">
 I worked in 2020 as Support Analyst managing a vehicle integration system as well as maintaining websites through the company's CMS. In 2021, after a Node.js bootcamp I had the honor of start my carrer as a developer. I worked at a Startup where I could use my knowledge to refactor the main Api from Javascript to Typescript, apply code patterns, develop several features, write a documentation and offcourse, correct bugs.
+</p>
 
 ### :wrench::computer: Skills
 ***
