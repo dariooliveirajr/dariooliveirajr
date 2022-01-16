@@ -7,10 +7,9 @@
 <img align="right" src="./assets/computer.png"> 
 <br><br><br><br>
 <ul align="left">
-  <li>Full-Stack Developer</li>
-  <li>In love with the Javascript stack</li>
+  <li>For now, learning Java in depth</li>
+  <li>With experience in Javascript Developent</li>
   <li>I already participated in some technology fairs</li>
-  <li>Aspiring gamer</li>
 </ul>
 <br><br><br><br><br><br><br><br>
 <p align="center">
@@ -24,7 +23,9 @@
 
 ### :boy::v: Hi there! 
 ***
-I have been working with the development of graphic materials for about 4 years. I worked with PHP and the main structuring languages in 2018. In 2019 I developed a system for scheduling appointments for the Semper Clínica de fisioterapia using Node.js, among several back-end and styling libraries, as well as creating a database. normalized data. I participated in several fairs and workshops on information technology, becoming a winner or finalist in any of them. I worked in 2020 managing a vehicle integration system at Search Optics Serviços LTDA, as well as maintaining websites through the company's CMS. 
+I started in the programming world with 13 years old, thru a Blog for a game. I attendend a technical school whereby I learned the basics of computer science and could put my hands on a lot of projects. In 2019 I developed a system for scheduling appointments for a physical therapy clinic using Node.js, among several back-end and styling libraries, as well as creating a database. I participated in several fairs and workshops that addressed mobile development, integrated systems, artificial intelligence and web development becoming a winner or finalist in some of them. 
+
+I worked in 2020 as Support Analyst managing a vehicle integration system as well as maintaining websites through the company's CMS. In 2021, after a Node.js bootcamp I had the honor of start my carrer as a developer. I worked at a Startup where I could use my knowledge to refactor the main Api from Javascript to Typescript, apply code patterns, develop several features, write a documentation and offcourse, correct bugs.
 
 ### :wrench::computer: Skills
 ***
@@ -35,10 +36,6 @@ I have been working with the development of graphic materials for about 4 years.
 ![GitHub all releases](https://img.shields.io/badge/-Javascript-F7DF1E?&style=for-the-badge&logoColor=fff&logo=javascript&logoWidth=25)
 ![GitHub all releases](https://img.shields.io/badge/-Typescript-3178C6?&style=for-the-badge&logoColor=fff&logo=typescript&logoWidth=25)
 
-<!-- Server and Containers -->
-![GitHub all releases](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logoColor=fff&logo=linux&logoWidth=25)
-![GitHub all releases](https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logoColor=fff&logo=docker&logoWidth=25)
-![GitHub all releases](https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logoColor=fff&logo=docker&logoWidth=25)
 
 <!-- Databases -->
 ![GitHub all releases](https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logoColor=fff&logo=mongodb&logoWidth=25)
@@ -46,6 +43,7 @@ I have been working with the development of graphic materials for about 4 years.
 ![GitHub all releases](https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logoColor=fff&logo=postgresql&logoWidth=25)
 
 <!-- Others -->
+![GitHub all releases](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logoColor=fff&logo=linux&logoWidth=25)
 ![GitHub all releases](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logoColor=fff&logo=git&logoWidth=25)
 ![GitHub all releases](https://img.shields.io/badge/-Github-181717?&style=for-the-badge&logoColor=fff&logo=github&logoWidth=25) 
 ![GitHub all releases](https://img.shields.io/badge/-NPM-CB3837?&style=for-the-badge&logoColor=fff&logo=npm&logoWidth=25)
